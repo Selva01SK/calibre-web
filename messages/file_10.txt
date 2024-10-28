@@ -1,120 +1,120 @@
 msgid "Delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "Public Shelf"
-msgstr ""
+msgstr "பொது அலமாரி"
 
 msgid "Import LDAP Users"
-msgstr ""
+msgstr "LDAP பயனர்களை இறக்குமதி செய்யவும்"
 
 msgid "Email Server Settings"
-msgstr ""
+msgstr "மின்னஞ்சல் சேவையக அமைப்புகள்"
 
 msgid "SMTP Hostname"
-msgstr ""
+msgstr "SMTP புரவலன் பெயர்"
 
 msgid "SMTP Port"
-msgstr ""
+msgstr "SMTP துறைமுகம்"
 
 msgid "Encryption"
-msgstr ""
+msgstr "குறியாக்கம்"
 
 msgid "SMTP Login"
-msgstr ""
+msgstr "SMTP உள்நுழைவு"
 
 msgid "From Email"
-msgstr ""
+msgstr "மின்னஞ்சலில் இருந்து"
 
 msgid "Email Service"
-msgstr ""
+msgstr "மின்னஞ்சல் சேவை"
 
 msgid "Gmail via Oauth2"
-msgstr ""
+msgstr "Oauth2 வழியாக மின்னஞ்சல்"
 
 msgid "Configuration"
-msgstr ""
+msgstr "கட்டமைப்பு"
 
 msgid "Calibre Database Directory"
-msgstr ""
+msgstr "காலிபர் டேட்டாபேஸ் டைரக்டரி"
 
 msgid "Log Level"
-msgstr ""
+msgstr "பதிவு நிலை"
 
 msgid "Port"
-msgstr ""
+msgstr "துறைமுகம்"
 
 msgid "External Port"
-msgstr ""
+msgstr "வெளி துறைமுகம்"
 
 msgid "Books per Page"
-msgstr ""
+msgstr "ஒரு பக்கத்திற்கு புத்தகங்கள்"
 
 msgid "Uploads"
-msgstr ""
+msgstr "பதிவேற்றங்கள்"
 
 msgid "Anonymous Browsing"
-msgstr ""
+msgstr "அநாமதேய உலாவல்"
 
 msgid "Public Registration"
-msgstr ""
+msgstr "பொதுப் பதிவு"
 
 msgid "Magic Link Remote Login"
-msgstr ""
+msgstr "மேஜிக் லிங்க் ரிமோட் உள்நுழைவு"
 
 msgid "Reverse Proxy Login"
-msgstr ""
+msgstr "தலைகீழ் பதிலாள் புகுபதிகை "
 
 msgid "Reverse Proxy Header Name"
-msgstr ""
+msgstr "தலைகீழ் பதிலாள் தலைப்பு பெயர்"
 
 msgid "Edit Calibre Database Configuration"
-msgstr ""
+msgstr "திருத்தவும் திறன் தரவுத்தள கட்டமைப்பு "
 
 msgid "Edit Basic Configuration"
-msgstr ""
+msgstr "அடிப்படை உள்ளமைவைத் திருத்தவும்"
 
 msgid "Edit UI Configuration"
-msgstr ""
+msgstr "UI உள்ளமைவைத் திருத்து"
 
 msgid "Scheduled Tasks"
-msgstr ""
+msgstr "திட்டமிடப்பட்ட பணிகள்"
 
 msgid "Start Time"
-msgstr ""
+msgstr "தொடக்க நேரம்"
 
 msgid "Maximum Duration"
-msgstr ""
+msgstr "அதிகபட்ச காலம்"
 
 msgid "Generate Thumbnails"
-msgstr ""
+msgstr "சிறுபடங்களை உருவாக்கவும்"
 
 msgid "Generate series cover thumbnails"
-msgstr ""
+msgstr "தொடர் அட்டை சிறுபடங்களை உருவாக்கவும்"
 
 msgid "Reconnect Calibre Database"
-msgstr ""
+msgstr "மீண்டும் இணைக்கவும் திறன் தரவுத்தளம் "
 
 msgid "Generate Metadata Backup Files"
-msgstr ""
+msgstr "உருவாக்கு மெட்டாடேட்டா காப்பு கோப்புகள்"
 
 msgid "Refresh Thumbnail Cache"
-msgstr ""
+msgstr "சிறுபடம் தற்காலிக சேமிப்பைப் புதுப்பிக்கவும்"
 
 msgid "Administration"
-msgstr ""
+msgstr "நிர்வாகம்"
 
 msgid "Download Debug Package"
-msgstr ""
+msgstr "பிழைத்திருத்த தொகுப்பைப் பதிவிறக்கவும்"
 
 msgid "View Logs"
-msgstr ""
+msgstr "பதிவுகளைப் பார்க்கவும்"
 
 msgid "Restart"
-msgstr ""
+msgstr "மறுதொடக்கம்"
 
 msgid "Shutdown"
-msgstr ""
+msgstr "பணிநிறுத்தம்"
 
 msgid "Version Information"
-msgstr ""
+msgstr "பதிப்பு தகவல்"
 
