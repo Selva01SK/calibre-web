@@ -1,120 +1,120 @@
 msgid "Logout User"
-msgstr ""
+msgstr "வெளியேறு பயனர்"
 
 msgid "Sort ascending according to download count"
-msgstr ""
+msgstr "பதிவிறக்க எண்ணிக்கையின்படி ஏறுவரிசையில் வரிசைப்படுத்தவும்"
 
 msgid "Sort descending according to download count"
-msgstr ""
+msgstr "பதிவிறக்க எண்ணிக்கையின்படி இறங்குவரிசையை வரிசைப்படுத்தவும்"
 
 msgid "Sort authors in alphabetical order"
-msgstr ""
+msgstr "ஆசிரியர்களை அகர வரிசைப்படி வரிசைப்படுத்தவும்"
 
 msgid "Sort authors in reverse alphabetical order"
-msgstr ""
+msgstr "ஆசிரியர்களை தலைகீழ் அகரவரிசையில் வரிசைப்படுத்தவும்"
 
 msgid "Sort ascending according to series index"
-msgstr ""
+msgstr "தொடர் குறியீட்டின்படி ஏறுவரிசையில் வரிசைப்படுத்தவும்"
 
 msgid "Sort descending according to series index"
-msgstr ""
+msgstr "தொடர் குறியீட்டின்படி இறங்குமுறையை வரிசைப்படுத்தவும்"
 
 msgid "Start"
-msgstr ""
+msgstr "தொடங்கு"
 
 msgid "Alphabetical Books"
-msgstr ""
+msgstr "அகரவரிசைப் புத்தகங்கள்"
 
 msgid "Books sorted alphabetically"
-msgstr ""
+msgstr "புத்தகங்கள் அகரவரிசைப்படி வரிசைப்படுத்தப்பட்டுள்ளன"
 
 msgid "Popular publications from this catalog based on Downloads."
-msgstr ""
+msgstr "பதிவிறக்கங்களின் அடிப்படையில் இந்த பட்டியலிலிருந்து பிரபலமான வெளியீடுகள்"
 
 msgid "Popular publications from this catalog based on Rating."
-msgstr ""
+msgstr "மதிப்பீட்டின் அடிப்படையில் இந்த பட்டியலிலிருந்து பிரபலமான வெளியீடுகள்."
 
 msgid "Recently added Books"
-msgstr ""
+msgstr "சமீபத்தில் சேர்க்கப்பட்ட புத்தகங்கள்"
 
 msgid "The latest Books"
-msgstr ""
+msgstr "சமீபத்திய புத்தகங்கள்"
 
 msgid "Random Books"
-msgstr ""
+msgstr "சீரற்ற புத்தகங்கள்"
 
 msgid "Books ordered by Author"
-msgstr ""
+msgstr "ஆசிரியர் உத்தரவு செய்த புத்தகங்கள்"
 
 msgid "Books ordered by publisher"
-msgstr ""
+msgstr "வெளியீட்டாளரால் உத்தரவு செய்யப்பட்ட புத்தகங்கள்"
 
 msgid "Books ordered by category"
-msgstr ""
+msgstr "வகை வாரியாக வரிசைப்படுத்தப்பட்ட புத்தகங்கள்"
 
 msgid "Books ordered by series"
-msgstr ""
+msgstr "புத்தகங்கள் வரிசையில் வரிசைப்படுத்தப்பட்டுள்ளன"
 
 msgid "Books ordered by Languages"
-msgstr ""
+msgstr "மொழிகளால் வரிசைப்படுத்தப்பட்ட புத்தகங்கள்"
 
 msgid "Books ordered by Rating"
-msgstr ""
+msgstr "மதிப்பீட்டின்படி வரிசைப்படுத்தப்பட்ட புத்தகங்கள்"
 
 msgid "Books ordered by file formats"
-msgstr ""
+msgstr "கோப்பு வடிவங்கள் மூலம் வரிசைப்படுத்தப்பட்ட புத்தகங்கள்"
 
 msgid "Shelves"
-msgstr ""
+msgstr "அலமாரிகள்"
 
 msgid "Books organized in shelves"
-msgstr ""
+msgstr "புத்தகங்கள் அலமாரிகளில் ஏற்பாடு செய்யப்பட்டுள்ளன"
 
 msgid "Home"
-msgstr ""
+msgstr "முகப்பு"
 
 msgid "Toggle Navigation"
-msgstr ""
+msgstr "வழிசெலுத்தலை மாற்று"
 
 msgid "Search Library"
-msgstr ""
+msgstr "தேடல் நூலகம்"
 
 msgid "Account"
-msgstr ""
+msgstr "கணக்கு"
 
 msgid "Logout"
-msgstr ""
+msgstr "வெளியேறு"
 
 msgid "Settings"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 msgid "Please do not refresh the page"
-msgstr ""
+msgstr "தயவுசெய்து பக்கத்தைப் புதுப்பிக்க வேண்டாம்"
 
 msgid "Browse"
-msgstr ""
+msgstr "உலாவவும்"
 
 msgid "About"
-msgstr ""
+msgstr "பற்றி"
 
 msgid "Previous"
-msgstr ""
+msgstr "முந்தைய"
 
 msgid "Book Details"
-msgstr ""
+msgstr "புத்தக விவரங்கள்"
 
 msgid "Grid"
-msgstr ""
+msgstr "கட்டம்"
 
 msgid "Archived"
-msgstr ""
+msgstr "காப்பகப்படுத்தப்பட்டது"
 
 msgid "Remember Me"
-msgstr ""
+msgstr "என்னை நினைவு செய்யுங்கள்"
 
 msgid "Forgot Password?"
-msgstr ""
+msgstr "கடவுச்சொல் மறந்துவிட்டதா?"
 
 msgid "Log in with Magic Link"
-msgstr ""
+msgstr "மேஜிக் லிங்க் மூலம் உள்நுழையவும்"
 
