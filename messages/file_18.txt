@@ -1,120 +1,120 @@
 msgid "Show Calibre-Web Log: "
-msgstr ""
+msgstr "நிகழ்ச்சி திறமை-வலை பதிவு:"
 
 msgid "Calibre-Web Log: "
-msgstr ""
+msgstr "திறமை-வலை பதிவு:"
 
 msgid "Stream output, can't be displayed"
-msgstr ""
+msgstr "ஓடை வெளியீடு, காட்ட முடியாது"
 
 msgid "Show Access Log: "
-msgstr ""
+msgstr "அணுகல் பதிவைக் காட்டு:"
 
 msgid "Download Calibre-Web Log"
-msgstr ""
+msgstr "பதிவிறக்கம் திறமை-வலை பதிவு"
 
 msgid "Download Access Log"
-msgstr ""
+msgstr "அணுகல் பதிவைப் பதிவிறக்கவும்"
 
 msgid "Select Allowed/Denied Tags"
-msgstr ""
+msgstr "அனுமதிக்கப்பட்ட/மறுக்கப்பட்ட குறிச்சொற்களைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Select Allowed/Denied Custom Column Values"
-msgstr ""
+msgstr "அனுமதிக்கப்பட்ட/மறுக்கப்பட்ட தனிப்பயன் நெடுவரிசை மதிப்புகளைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Select Allowed/Denied Tags of User"
-msgstr ""
+msgstr "பயனரின் அனுமதிக்கப்பட்ட/மறுக்கப்பட்ட குறிச்சொற்களைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Select Allowed/Denied Custom Column Values of User"
-msgstr ""
+msgstr "பயனரின் அனுமதிக்கப்பட்ட/மறுக்கப்பட்ட தனிப்பயன் நெடுவரிசை மதிப்புகளைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Enter Tag"
-msgstr ""
+msgstr "குறிச்சொல்லை உள்ளிடவும்"
 
 msgid "Add View Restriction"
-msgstr ""
+msgstr "பார்வைக் கட்டுப்பாட்டைச் சேர்க்கவும்"
 
 msgid "This book format will be permanently erased from database"
-msgstr ""
+msgstr "இந்தப் புத்தக வடிவம் தரவுத்தளத்திலிருந்து நிரந்தரமாக அழிக்கப்படும்"
 
 msgid "This book will be permanently erased from database"
-msgstr ""
+msgstr "இந்தப் புத்தகம் தரவுத்தளத்திலிருந்து நிரந்தரமாக அழிக்கப்படும்"
 
 msgid "and hard disk"
-msgstr ""
+msgstr "மற்றும் ஹார்ட் டிஸ்க்"
 
 msgid "Important Kobo Note: deleted books will remain on any paired Kobo device."
-msgstr ""
+msgstr "முக்கியமான கோபோ குறிப்பு: இணைக்கப்பட்ட எந்த கோபோ சாதனத்திலும் நீக்கப்பட்ட புத்தகங்கள் இருக்கும்"
 
 msgid ""
 msgstr ""
 
 msgid "Choose File Location"
-msgstr ""
+msgstr "கோப்பு இருப்பிடத்தைத் தேர்ந்தெடுக்கவும்"
 
 msgid "type"
-msgstr ""
+msgstr "வகை"
 
 msgid "name"
-msgstr ""
+msgstr "பெயர்"
 
 msgid "size"
-msgstr ""
+msgstr "அளவு"
 
 msgid "Parent Directory"
-msgstr ""
+msgstr "பெற்றோர் கோப்பகம்"
 
 msgid "Select"
-msgstr ""
+msgstr "தேர்ந்தெடு"
 
 msgid "Ok"
-msgstr ""
+msgstr "சரி"
 
 msgid "Calibre-Web eBook Catalog"
-msgstr ""
+msgstr "திறன்-வலை மின்புத்தகம் பட்டியல் "
 
 msgid "epub Reader"
-msgstr ""
+msgstr "எபப் வாசகர்"
 
 msgid "Light"
-msgstr ""
+msgstr "ஒளி"
 
 msgid "Dark"
-msgstr ""
+msgstr "இருள்"
 
 msgid "Sepia"
-msgstr ""
+msgstr "செபியா"
 
 msgid "Black"
-msgstr ""
+msgstr "கருப்பு"
 
 msgid "Reflow text when sidebars are open."
-msgstr ""
+msgstr "பக்கப்பட்டிகள் திறந்திருக்கும் போது உரையை மறுபரிசீலனை செய்யவும்."
 
 msgid "Font Sizes"
-msgstr ""
+msgstr "எழுத்துரு அளவுகள்"
 
 msgid "Font"
-msgstr ""
+msgstr "எழுத்துரு"
 
 msgid "Default"
-msgstr ""
+msgstr "இயல்புநிலை"
 
 msgid "Yahei"
-msgstr ""
+msgstr "யாஹெய்"
 
 msgid "SimSun"
-msgstr ""
+msgstr "சிம்சன்"
 
 msgid "KaiTi"
-msgstr ""
+msgstr "KaiTi"
 
 msgid "Arial"
-msgstr ""
+msgstr "ஏரியல்"
 
 msgid "Spread"
-msgstr ""
+msgstr "பரவுதல்"
 
 msgid "Two columns"
-msgstr ""
+msgstr "இரண்டு நெடுவரிசைகள்"
 
