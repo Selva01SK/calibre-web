@@ -1,120 +1,120 @@
 msgid "Location of Unrar binary"
-msgstr ""
+msgstr "Unrar பைனரியின் இடம்"
 
 msgid "Security Settings"
-msgstr ""
+msgstr "பாதுகாப்பு அமைப்புகள்"
 
 msgid "Limit failed login attempts"
-msgstr ""
+msgstr "தோல்வியுற்ற உள்நுழைவு முயற்சிகளை வரம்பிடவும்"
 
 msgid "Configure Backend for Limiter"
-msgstr ""
+msgstr "லிமிட்டருக்கான பின்தளத்தை உள்ளமைக்கவும்"
 
 msgid "Options for Limiter Backend"
-msgstr ""
+msgstr "லிமிட்டர் பின்தளத்திற்கான விருப்பங்கள்"
 
 msgid "Check if file extensions matches file content on upload"
-msgstr ""
+msgstr "கோப்பு நீட்டிப்புகள் பதிவேற்றத்தின் போது கோப்பு உள்ளடக்கத்துடன் பொருந்துகிறதா என சரிபார்க்கவும்"
 
 msgid "Session protection"
-msgstr ""
+msgstr "அமர்வு பாதுகாப்பு"
 
 msgid "Basic"
-msgstr ""
+msgstr "அடிப்படை"
 
 msgid "Strong"
-msgstr ""
+msgstr "வலுவான"
 
 msgid "User Password policy"
-msgstr ""
+msgstr "பயனர் கடவுச்சொல் கொள்கை"
 
 msgid "Minimum password length"
-msgstr ""
+msgstr "குறைந்தபட்ச கடவுச்சொல் நீளம்"
 
 msgid "Enforce number"
-msgstr ""
+msgstr "எண்ணைச் செயல்படுத்தவும்"
 
 msgid "Enforce lowercase characters"
-msgstr ""
+msgstr "சிறிய எழுத்துக்களைச் செயல்படுத்தவும்"
 
 msgid "Enforce uppercase characters"
-msgstr ""
+msgstr "பெரிய எழுத்துகளை செயல்படுத்தவும்"
 
 msgid "Enforce characters (needed For Chinese/Japanese/Korean Characters)"
-msgstr ""
+msgstr "எழுத்துக்களைச் செயல்படுத்து (சீன/ஜப்பானிய/கொரிய எழுத்துக்களுக்குத் தேவை)"
 
 msgid "Enforce special characters"
-msgstr ""
+msgstr "சிறப்பு எழுத்துக்களைச் செயல்படுத்தவும்"
 
 msgid "View Configuration"
-msgstr ""
+msgstr "உள்ளமைவைப் பார்க்கவும்"
 
 msgid "No. of Random Books to Display"
-msgstr ""
+msgstr "காட்சிப்படுத்த வேண்டிய ரேண்டம் புத்தகங்களின் எண்ணிக்கை"
 
 msgid "No. of Authors to Display Before Hiding (0=Disable Hiding)"
-msgstr ""
+msgstr "மறைப்பதற்கு முன் காண்பிக்க வேண்டிய ஆசிரியர்களின் எண்ணிக்கை (0=மறைப்பதை முடக்கு)"
 
 msgid "Theme"
-msgstr ""
+msgstr "ஆய்வுப்அபாருள்"
 
 msgid "Standard Theme"
-msgstr ""
+msgstr "நிலையான ஆய்வுப்அபாருள்"
 
 msgid "caliBlur! Dark Theme"
-msgstr ""
+msgstr "காலி ப்ளூர்! இருண்ட தீம்"
 
 msgid "Regular Expression for Ignoring Columns"
-msgstr ""
+msgstr "நெடுவரிசைகளைப் புறக்கணிப்பதற்கான வழக்கமான வெளிப்பாடு"
 
 msgid "Link Read/Unread Status to Calibre Column"
-msgstr ""
+msgstr "படித்த/படிக்காத நிலையை காலிபர் நெடுவரிசையுடன் இணைக்கவும்"
 
 msgid "View Restrictions based on Calibre column"
-msgstr ""
+msgstr "காலிபர் நெடுவரிசையின் அடிப்படையில் கட்டுப்பாடுகளைக் காண்க"
 
 msgid "Regular Expression for Title Sorting"
-msgstr ""
+msgstr "தலைப்பு வரிசையாக்கத்திற்கான வழக்கமான வெளிப்பாடு"
 
 msgid "Default Settings for New Users"
-msgstr ""
+msgstr "புதிய பயனர்களுக்கான இயல்புநிலை அமைப்புகள்"
 
 msgid "Admin User"
-msgstr ""
+msgstr "நிர்வாக பயனர்"
 
 msgid "Allow Downloads"
-msgstr ""
+msgstr "பதிவிறக்கங்களை அனுமதிக்கவும்"
 
 msgid "Allow eBook Viewer"
-msgstr ""
+msgstr "மின்புத்தக பார்வையாளரை அனுமதிக்கவும்"
 
 msgid "Allow Uploads"
-msgstr ""
+msgstr "பதிவேற்றங்களை அனுமதிக்கவும்"
 
 msgid "Allow Edit"
-msgstr ""
+msgstr "திருத்த அனுமதிக்கவும்"
 
 msgid "Allow Delete Books"
-msgstr ""
+msgstr "புத்தகங்களை நீக்க அனுமதிக்கவும்"
 
 msgid "Allow Changing Password"
-msgstr ""
+msgstr "கடவுச்சொல்லை மாற்ற அனுமதிக்கவும்"
 
 msgid "Allow Editing Public Shelves"
-msgstr ""
+msgstr "பொது அலமாரிகளைத் திருத்த அனுமதிக்கவும்"
 
 msgid "Default Language"
-msgstr ""
+msgstr "இயல்பு மொழி"
 
 msgid "Default Visible Language of Books"
-msgstr ""
+msgstr "புத்தகங்களின் இயல்புநிலை காணக்கூடிய மொழி"
 
 msgid "Default Visibilities for New Users"
-msgstr ""
+msgstr "புதிய பயனர்களுக்கான இயல்புநிலை பார்வைகள்"
 
 msgid "Show Random Books in Detail View"
-msgstr ""
+msgstr "ரேண்டம் புத்தகங்களை விரிவான பார்வையில் காட்டு"
 
 msgid "Add Allowed/Denied Tags"
-msgstr ""
+msgstr "அனுமதிக்கப்பட்ட/மறுக்கப்பட்ட குறிச்சொற்களைச் சேர்க்கவும்"
 
