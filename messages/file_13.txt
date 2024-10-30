@@ -1,120 +1,120 @@
 msgid "Comments"
-msgstr ""
+msgstr "கருத்துகள்"
 
 msgid "Archive Status"
-msgstr ""
+msgstr "காப்பக நிலை"
 
 msgid "Read Status"
-msgstr ""
+msgstr "நிலையைப் படிக்கவும்"
 
 msgid "Enter "
-msgstr ""
+msgstr "உள்ளிடவும்"
 
 msgid "Are you really sure?"
-msgstr ""
+msgstr "நீங்கள் உண்மையிலேயே உறுதியாக இருக்கிறீர்களா?"
 
 msgid "Books with Title will be merged from:"
-msgstr ""
+msgstr "தலைப்பு கொண்ட புத்தகங்கள் இதிலிருந்து இணைக்கப்படும்:"
 
 msgid "Into Book with Title:"
-msgstr ""
+msgstr "தலைப்புடன் புத்தகத்தில்:"
 
 msgid "Merge"
-msgstr ""
+msgstr "ஒன்றிணைக்கவும்"
 
 msgid "Location of Calibre Database"
-msgstr ""
+msgstr "காலிபர் தரவுத்தளத்தின் இடம்"
 
 msgid "Separate Book Files from Library"
-msgstr ""
+msgstr "நூலகத்திலிருந்து புத்தகக் கோப்புகளைப் பிரிக்கவும்"
 
 msgid "Use Google Drive?"
-msgstr ""
+msgstr "Google இயக்ககத்தைப் பயன்படுத்தவா?"
 
 msgid "Authenticate Google Drive"
-msgstr ""
+msgstr "Google இயக்ககத்தை அங்கீகரிக்கவும்"
 
 msgid "Google Drive Calibre folder"
-msgstr ""
+msgstr "கூகுள் டிரைவ் காலிபர் கோப்புறை"
 
 msgid "Metadata Watch Channel ID"
-msgstr ""
+msgstr "மெட்டாடேட்டா வாட்ச் சேனல் ஐடி"
 
 msgid "Revoke"
-msgstr ""
+msgstr "திரும்பப் பெறு"
 
 msgid "New db location is invalid, please enter valid path"
-msgstr ""
+msgstr "புதிய db இருப்பிடம் தவறானது, சரியான பாதையை உள்ளிடவும்"
 
 msgid "Server Configuration"
-msgstr ""
+msgstr "சேவையக கட்டமைப்பு"
 
 msgid "Server Port"
-msgstr ""
+msgstr "சர்வர் போர்ட்"
 
 msgid "SSL certfile location (leave it empty for non-SSL Servers)"
-msgstr ""
+msgstr "SSL சான்றிதழ் இருப்பிடம் (SSL அல்லாத சேவையகங்களுக்கு காலியாக விடவும்)"
 
 msgid "SSL Keyfile location (leave it empty for non-SSL Servers)"
-msgstr ""
+msgstr "SSL கீஃபைல் இருப்பிடம் (SSL அல்லாத சேவையகங்களுக்கு காலியாக விடவும்)"
 
 msgid "Update Channel"
-msgstr ""
+msgstr "சேனலைப் புதுப்பிக்கவும்"
 
 msgid "Stable"
-msgstr ""
+msgstr "நிலையானது"
 
 msgid "Nightly"
-msgstr ""
+msgstr "இரவு"
 
 msgid "Trusted Hosts (Comma Separated)"
-msgstr ""
+msgstr "நம்பகமான ஹோஸ்ட்கள் (காற்புள்ளியால் பிரிக்கப்பட்டது)"
 
 msgid "Logfile Configuration"
-msgstr ""
+msgstr "பதிவுக் கோப்பு கட்டமைப்பு"
 
 msgid "Location and name of logfile (calibre-web.log for no entry)"
-msgstr ""
+msgstr "லாக்ஃபைலின் இடம் மற்றும் பெயர் (calibre-web.log இல் நுழைய முடியாது)"
 
 msgid "Enable Access Log"
-msgstr ""
+msgstr "அணுகல் பதிவை இயக்கு"
 
 msgid "Location and name of access logfile (access.log for no entry)"
-msgstr ""
+msgstr "அணுகல் லாக்ஃபைலின் இருப்பிடம் மற்றும் பெயர் (நுழைவு இல்லாத அணுகல்.log)"
 
 msgid "Feature Configuration"
-msgstr ""
+msgstr "அம்ச கட்டமைப்பு"
 
 msgid "Convert non-English characters in title and author while saving to disk"
-msgstr ""
+msgstr "வட்டில் சேமிக்கும் போது தலைப்பு மற்றும் ஆசிரியரில் உள்ள ஆங்கிலம் அல்லாத எழுத்துக்களை மாற்றவும்"
 
 msgid ""
 msgstr ""
 
 msgid "Enable Uploads"
-msgstr ""
+msgstr "பதிவேற்றங்களை இயக்கு"
 
 msgid "(Please ensure that users also have upload permissions)"
-msgstr ""
+msgstr "(பயனர்களுக்கும் பதிவேற்ற அனுமதிகள் இருப்பதை உறுதி செய்து கொள்ளவும்)"
 
 msgid "Allowed Upload Fileformats"
-msgstr ""
+msgstr "அனுமதிக்கப்படும் கோப்பு வடிவங்கள்""
 
 msgid "Enable Anonymous Browsing"
-msgstr ""
+msgstr "அநாமதேய உலாவலை இயக்கு"
 
 msgid "Enable Public Registration"
-msgstr ""
+msgstr "பொதுப் பதிவை இயக்கு"
 
 msgid "Use Email as Username"
-msgstr ""
+msgstr "மின்னஞ்சலை பயனர்பெயராகப் பயன்படுத்தவும்"
 
 msgid "Enable Magic Link Remote Login"
-msgstr ""
+msgstr "மேஜிக் லிங்க் ரிமோட் உள்நுழைவை இயக்கவும்"
 
 msgid "Enable Kobo sync"
-msgstr ""
+msgstr "கோபோ ஒத்திசைவை இயக்கு"
 
 msgid "Proxy unknown requests to Kobo Store"
-msgstr ""
+msgstr "கோபோ ஸ்டோருக்கு ப்ராக்ஸி தெரியாத கோரிக்கைகள்"
 
