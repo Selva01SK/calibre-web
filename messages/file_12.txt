@@ -1,120 +1,120 @@
 msgid "Tags"
-msgstr ""
+msgstr "குறிச்சொற்கள்"
 
 msgid "Series ID"
-msgstr ""
+msgstr "தொடர் ஐடி"
 
 msgid "Rating"
-msgstr ""
+msgstr "மதிப்பீடு"
 
 msgid ""
 msgstr ""
 
 msgid "Upload Cover from Local Disk"
-msgstr ""
+msgstr "உள்ளூர் வட்டில் இருந்து அட்டையைப் பதிவேற்றவும்"
 
 msgid "Published Date"
-msgstr ""
+msgstr "வெளியிடப்பட்ட தேதி"
 
 msgid "Publisher"
-msgstr ""
+msgstr "பதிப்பாளர்"
 
 msgid "Language"
-msgstr ""
+msgstr "மொழி"
 
 msgid "Yes"
-msgstr ""
+msgstr "ஆம்"
 
 msgid "No"
-msgstr ""
+msgstr "இல்லை"
 
 msgid "View Book on Save"
-msgstr ""
+msgstr "சேமிப்பில் புத்தகத்தைப் பார்க்கவும்"
 
 msgid "Fetch Metadata"
-msgstr ""
+msgstr "மெட்டாடேட்டாவைப் பெறவும்"
 
 msgid "Save"
-msgstr ""
+msgstr "சேமிக்கவும்"
 
 msgid "Keyword"
-msgstr ""
+msgstr "முக்கிய வார்த்தை"
 
 msgid "Search keyword"
-msgstr ""
+msgstr "தேடல் முக்கிய வார்த்தை"
 
 msgid "Click the cover to load metadata to the form"
-msgstr ""
+msgstr "படிவத்தில் மெட்டாடேட்டாவை ஏற்ற அட்டையில் கிளிக் செய்யவும்"
 
 msgid "Loading..."
-msgstr ""
+msgstr "ஏற்றுகிறது..."
 
 msgid "Source"
-msgstr ""
+msgstr "ஆதாரம்"
 
 msgid "Search error!"
-msgstr ""
+msgstr "தேடல் பிழை!"
 
 msgid "No Result(s) found! Please try another keyword."
-msgstr ""
+msgstr "முடிவு(கள்) கிடைக்கவில்லை! மற்றொரு முக்கிய சொல்லை முயற்சிக்கவும்."
 
 msgid "This Field is Required"
-msgstr ""
+msgstr "இந்த புலம் தேவை"
 
 msgid "Merge selected books"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட புத்தகங்களை ஒன்றிணைக்கவும்"
 
 msgid "Remove Selections"
-msgstr ""
+msgstr "தேர்வுகளை அகற்று"
 
 msgid "Exchange author and title"
-msgstr ""
+msgstr "ஆசிரியர் மற்றும் தலைப்பு பரிமாற்றம்"
 
 msgid "Update Title Sort automatically"
-msgstr ""
+msgstr "தலைப்பு வரிசையை தானாகவே புதுப்பிக்கவும்"
 
 msgid "Update Author Sort automatically"
-msgstr ""
+msgstr "ஆசிரியரின் வரிசையை தானாகவே புதுப்பிக்கவும்"
 
 msgid "Enter Title"
-msgstr ""
+msgstr "தலைப்பை உள்ளிடவும்"
 
 msgid "Title"
-msgstr ""
+msgstr "தலைப்பு"
 
 msgid "Enter Title Sort"
-msgstr ""
+msgstr "தலைப்பு வரிசையை உள்ளிடவும்"
 
 msgid "Title Sort"
-msgstr ""
+msgstr "தலைப்பு வரிசைப்படுத்தவும்"
 
 msgid "Enter Author Sort"
-msgstr ""
+msgstr "ஆசிரியர் வரிசையை உள்ளிடவும்"
 
 msgid "Author Sort"
-msgstr ""
+msgstr "ஆசிரியர் வரிசை"
 
 msgid "Enter Authors"
-msgstr ""
+msgstr "ஆசிரியர்களை உள்ளிடவும்"
 
 msgid "Enter Categories"
-msgstr ""
+msgstr "வகைகளை உள்ளிடவும்"
 
 msgid "Enter Series"
-msgstr ""
+msgstr "தொடரை உள்ளிடவும்"
 
 msgid "Series Index"
-msgstr ""
+msgstr "தொடர் குறியீடு"
 
 msgid "Enter Languages"
-msgstr ""
+msgstr "மொழிகளை உள்ளிடவும்"
 
 msgid "Publishing Date"
-msgstr ""
+msgstr "வெளியிடும் தேதி"
 
 msgid "Enter Publishers"
-msgstr ""
+msgstr "வெளியீட்டாளர்களை உள்ளிடவும்"
 
 msgid "Enter comments"
-msgstr ""
+msgstr "கருத்துகளை உள்ளிடவும்"
 
